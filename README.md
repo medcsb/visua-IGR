@@ -23,3 +23,13 @@ To explore whether certain names are more popular in specific regions, this visu
 
 - Lacks temporal context — there’s no way to explore how name usage changes over time, as the visualization only shows a static snapshot.
 
+
+# Visualization 3
+![alt text](media/Visualization3-name-sex.png)
+
+Visualization that gives for the chosen name and chosen department displays the name's gender tendecies 
+- Y-axis was chosen to display in relative scale (percent of boys-girls) 
+- Hover over a datapoint gives acces to absolute numbers
+
+- Future challenge: compare different forms of a name from the chosen "family name" (e.g. Axelle et Axel) 
+
